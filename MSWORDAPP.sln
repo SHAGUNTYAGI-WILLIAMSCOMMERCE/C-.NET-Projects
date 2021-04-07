@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSWORDAPP", "MSWORDAPP.csproj", "{32AB5D87-5CE1-4660-BB6C-C6AB91523CDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32AB5D87-5CE1-4660-BB6C-C6AB91523CDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AB5D87-5CE1-4660-BB6C-C6AB91523CDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AB5D87-5CE1-4660-BB6C-C6AB91523CDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AB5D87-5CE1-4660-BB6C-C6AB91523CDD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E4101B-B33A-4D99-B91B-C7BD4EC6C7F9}
+	EndGlobalSection
+EndGlobal
